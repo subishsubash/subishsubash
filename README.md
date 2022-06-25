@@ -13,7 +13,7 @@
 <p align="left">
   <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/java-1.png?raw=true" width="50" height="50" title="Java">
   <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/spring-boot.png?raw=true" width="50" height="50" title="Spring-boot">
-  <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/reactjs.jpg?raw=true" width="50" height="50" title="Angular">
+  <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/reactjs.png?raw=true" width="50" height="50" title="ReactJs">
   <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/mysql.png?raw=true" width="50" height="50" title="mysql">
   <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/git.png?raw=true" width="50" height="50" title="git">    
   <img src="https://github.com/subishsubash/readme-images/blob/master/stack%20logos/mongodb-1.png?raw=true" width="50" height="50" title="git">

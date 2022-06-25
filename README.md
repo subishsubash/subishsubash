@@ -1,7 +1,7 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> This is Subash, Happy to see you here</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> This is Subash, Happy to see you here</h1>
  
 <p>
-  Skilled Java developer with 4.5 years of experience in the full SDLC, creating dynamic web applications and microservices. Having good knowledge and experience in Data-Modelling, Project Management, CI/CD process, and Agile methodology.
+  Skilled Java developer with 5 years of experience in the full SDLC, creating dynamic web applications and microservices. Having good knowledge and experience in Data-Modelling, Project Management, CI/CD process, and Agile methodology.
 </p> 
 <p align="left">
     <a href="https://www.linkedin.com/in/subashchandar-s-53b50011b"> <img src="https://github.com/subishsubash/readme-images/blob/master/social%20network%20logos/LinkedIn-1.jpg?raw=true" width=200" height="60"> </a>
